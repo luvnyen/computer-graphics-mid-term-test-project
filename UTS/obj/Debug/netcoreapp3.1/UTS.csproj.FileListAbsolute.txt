@@ -1,0 +1,210 @@
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.exe
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.deps.json
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.json
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.dev.json
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.pdb
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csprojAssemblyReference.cache
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfoInputs.cache
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfo.cs
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CoreCompileInputs.cache
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CopyComplete
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.dll
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.pdb
+D:\Desktop\kuliah mbut\Sem 4\Grafika Komputer\UTS\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.genruntimeconfig.cache
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.exe
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.deps.json
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.json
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.dev.json
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.pdb
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\_Kuliah\Grafkom\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\_Kuliah\Grafkom\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csprojAssemblyReference.cache
+D:\_Kuliah\Grafkom\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfoInputs.cache
+D:\_Kuliah\Grafkom\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfo.cs
+D:\_Kuliah\Grafkom\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CoreCompileInputs.cache
+D:\_Kuliah\Grafkom\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CopyComplete
+D:\_Kuliah\Grafkom\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.dll
+D:\_Kuliah\Grafkom\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.pdb
+D:\_Kuliah\Grafkom\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.genruntimeconfig.cache
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.exe
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.deps.json
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.json
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.dev.json
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.pdb
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csprojAssemblyReference.cache
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfoInputs.cache
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfo.cs
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CoreCompileInputs.cache
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CopyComplete
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.pdb
+C:\Users\Jeffery Tanudihardjo\Downloads\awddwa\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.genruntimeconfig.cache
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.exe
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.deps.json
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.json
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.dev.json
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.pdb
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+D:\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+D:\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csprojAssemblyReference.cache
+D:\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfoInputs.cache
+D:\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfo.cs
+D:\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CoreCompileInputs.cache
+D:\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CopyComplete
+D:\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.dll
+D:\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.pdb
+D:\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.genruntimeconfig.cache
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.exe
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.deps.json
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.json
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.dev.json
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.pdb
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csprojAssemblyReference.cache
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfoInputs.cache
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfo.cs
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CoreCompileInputs.cache
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CopyComplete
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.dll
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.pdb
+C:\Users\Jeffery Tanudihardjo\Downloads\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.genruntimeconfig.cache
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.exe
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.deps.json
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.json
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.runtimeconfig.dev.json
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\UTS.pdb
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Compute.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Core.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Graphics.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Input.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Mathematics.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.OpenAL.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.Desktop.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\glfw3.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\glfw3.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\bin\Debug\netcoreapp3.1\LearnOpenTK.Common.pdb
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csprojAssemblyReference.cache
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfoInputs.cache
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.AssemblyInfo.cs
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CoreCompileInputs.cache
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.csproj.CopyComplete
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.dll
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.pdb
+C:\Users\Jeffery Tanudihardjo\Desktop\Informatics PCU '19\4th SEMESTER\GrafKom (Grafika Komputer)\UTS\FIX\UTS\UTS\obj\Debug\netcoreapp3.1\UTS.genruntimeconfig.cache
