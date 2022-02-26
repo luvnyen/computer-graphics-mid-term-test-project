@@ -1,5 +1,5 @@
 # computer-graphics-mid-term-test-project
-Mid-term project for Computer Graphics course at Petra Christian University using [OpenTK](https://opentk.net/).
+Mid-term project for Computer Graphics course at Petra Christian University made using C# & [OpenTK](https://opentk.net/).
 
 ### Project report 📃 [Click here!](https://drive.google.com/file/d/1LZkzAhGcB57BAyTEMcVmbtmq5LHaAqtT/view?usp=sharing)
 ### Project demo video 📽️ [Click here!](https://drive.google.com/file/d/1U7EYPpaa15u1nI7tX2zyTIymgkbGXIrT/view?usp=sharing)
