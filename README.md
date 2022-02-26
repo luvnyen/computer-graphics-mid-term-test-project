@@ -8,6 +8,6 @@ Mid-term project for Computer Graphics course at Petra Christian University made
 ![image](https://user-images.githubusercontent.com/56993480/145050851-0870d4ef-69f6-42a7-9219-1652e32fd3ed.png)
 
 ## Credits
-<li>Dick Jovian – C14190076</li>
-<li>Bryan Fernando Liauw – C14190020</li>
-<li>Calvert Tanudihardjo – C14190033</li>
+Dick Jovian – C14190076<br>
+Bryan Fernando Liauw – C14190020<br>
+Calvert Tanudihardjo – C14190033<br>
